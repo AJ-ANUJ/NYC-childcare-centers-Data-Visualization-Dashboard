@@ -1,6 +1,7 @@
 # NYC-childcare-centers-Data-Visualization-Dashboard
 
-![Dashboard_Demo](https://github.com/AJ-ANUJ/NYC-childcare-centers-Data-Visualization-Dashboard/assets/26610301/2bdbb90b-7e0e-4abc-861d-87c8fb4fcb13)
+![Dashboard_Demo](https://github.com/AJ-ANUJ/NYC-childcare-centers-Data-Visualization-Dashboard/assets/26610301/5c80e4df-51ba-4718-a18d-1f59312bd8ea)
+
 
 Interactive Data Visualization Dashboard to visualize the high dimensional dataset of NYC's childcare centers for finding important insights and facts about them.
 
